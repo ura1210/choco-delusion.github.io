@@ -1,3 +1,0 @@
-C:\Users\takei\Desktop\folder\program\C#\obj\Debug\netcoreapp3.1\C#.csprojAssemblyReference.cache
-C:\Users\takei\Desktop\folder\program\C#\obj\Debug\netcoreapp3.1\C#.AssemblyInfoInputs.cache
-C:\Users\takei\Desktop\folder\program\C#\obj\Debug\netcoreapp3.1\C#.AssemblyInfo.cs
